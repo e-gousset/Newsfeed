@@ -1,0 +1,18 @@
+.btn-blue{
+	background-color:grey;
+	padding: 10px 15px;
+	border-radius: 5px;
+	color: white;
+	font-weight: lighter;
+	font-family: "roboto";
+
+}
+
+.btn-blue {
+	flex-grow: 0;
+	padding: 10px auto;
+	font-size: 20px ;
+	width: 5px 5px;
+	justify-content: center;
+}
+
